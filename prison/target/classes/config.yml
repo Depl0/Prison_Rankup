@@ -1,0 +1,138 @@
+Name-GUI: "                &d&lRANKS"
+menu-slots:
+  slot-1:
+    name: "&fCoal Rank Upgrade"
+    item: COAL_ORE
+    command: "warp coal %player%"
+    permission: "prison.upgrade.coal"
+    cost: 100
+    message: "You have been upgraded to the Coal Rank!"
+    group: "coal"
+  slot-2:
+    name: "&fIron Rank Upgrade"
+    item: IRON_ORE
+    command: "warp iron %player%"
+    permission: "prison.upgrade.iron"
+    cost: 200
+    message: "You have been upgraded to the Iron Rank!"
+    group: "iron"
+  slot-3:
+    name: "&fLapis Rank Upgrade"
+    item: LAPIS_ORE
+    command: "warp lapis %player%"
+    permission: "prison.upgrade.lapis"
+    cost: 300
+    message: "You have been upgraded to the Lapis Rank!"
+    group: "lapis"
+  slot-4:
+    name: "&fRedstone Rank Upgrade"
+    item: REDSTONE_ORE
+    command: "warp redstone %player%"
+    permission: "prison.upgrade.redstone"
+    cost: 400
+    message: "You have been upgraded to the Redstone Rank!"
+    group: "redstone"
+  slot-5:
+    name: "&fGold Rank Upgrade"
+    item: GOLD_ORE
+    command: "warp gold %player%"
+    permission: "prison.upgrade.gold"
+    cost: 500
+    message: "You have been upgraded to the Gold Rank!"
+    group: "gold"
+  slot-6:
+    name: "&fDiamond Rank Upgrade"
+    item: DIAMOND_ORE
+    command: "warp diamond %player%"
+    permission: "prison.upgrade.diamond"
+    cost: 600
+    message: "You have been upgraded to the Diamond Rank!"
+    group: "diamond"
+  slot-7:
+    name: "&fEmerald Rank Upgrade"
+    item: EMERALD_ORE
+    command: "warp emerald %player%"
+    permission: "prison.upgrade.emerald"
+    cost: 700
+    message: "You have been upgraded to the Emerald Rank!"
+    group: "emerald"
+  slot-8:
+    name: "&fPrismarine Rank Upgrade"
+    item: PRISMARINE
+    command: "warp prismarine %player%"
+    permission: "prison.upgrade.prismarine"
+    cost: 800
+    message: "You have been upgraded to the Prismarine Rank!"
+    group: "prismarine"
+  slot-9:
+    name: "&fBeacon Rank Upgrade"
+    item: BEACON
+    command: "warp beacon %player%"
+    permission: "prison.upgrade.beacon"
+    cost: 900
+    message: "You have been upgraded to the Beacon Rank!"
+    group: "beacon"
+  slot-10:
+    name: " "
+    item: STAINED_GLASS_PANE
+    command: " "
+  slot-11:
+    name: "&fLapis Block Rank Upgrade"
+    item: LAPIS_BLOCK
+    command: "warp lapis_block %player%"
+    permission: "prison.upgrade.lapisblock"
+    cost: 1100
+    message: "You have been upgraded to the Lapis Block Rank!"
+    group: "lapisblock"
+  slot-12:
+    name: "&fQuartz Ore Rank Upgrade"
+    item: QUARTZ_ORE
+    command: "warp quartzore %player%"
+    permission: "prison.upgrade.quartzore"
+    cost: 1200
+    message: "You have been upgraded to the Quartz Ore Rank!"
+    group: "quartzore"
+  slot-13:
+    name: "&fQuartz Rank Upgrade"
+    item: QUARTZ_BLOCK
+    command: "warp quartz %player%"
+    permission: "prison.upgrade.quartz"
+    cost: 1300
+    message: "You have been upgraded to the Quartz Rank!"
+    group: "quartz"
+  slot-14:
+    name: "&fSandstone Rank Upgrade"
+    item: SANDSTONE
+    command: "warp endstone %player%"
+    permission: "prison.upgrade.sandstone"
+    cost: 1400
+    message: "You have been upgraded to the Sandstone Rank!"
+    group: "sandstone"
+  slot-15:
+    name: "&fEndstone Brick Rank Upgrade"
+    item: END_BRICKS
+    command: "warp endbrick %player%"
+    permission: "prison.upgrade.endbrick"
+    cost: 1500
+    message: "You have been upgraded to the Endstone Brick Rank!"
+    group: "endbrick"
+  slot-16:
+    name: "&fPurpur Brick Rank Upgrade"
+    item: PURPUR_BLOCK
+    command: "warp purpur %player%"
+    permission: "prison.upgrade.purpur"
+    cost: 1600
+    message: "You have been upgraded to the Purpur Brick Rank!"
+    group: "purpur"
+  slot-17:
+    name: "&fBlack Glazed Terracotta Rank Upgrade"
+    item: BLACK_GLAZED_TERRACOTTA
+    command: "warp blackglazed %player%"
+    permission: "prison.upgrade.blackglazed"
+    cost: 1700
+    message: "You have been upgraded to the Black Glazed Terracotta Rank!"
+    group: "blackglazed"
+  slot-18:
+    name: " "
+    item: STAINED_GLASS_PANE
+    command: " "
